@@ -1,4 +1,4 @@
-#Custom Music Player
+# Custom Music Player
 
 A simple, custom music player written in JavaScript and Sass (SCSS).
 
